@@ -1,6 +1,6 @@
 # Git Large File Storage Process in a nutshell
 # add all shapefiles files to git lfs tracking.
-git lfs track "*.shp"
+*.shp filter=lfs diff=lfs merge=lfs -text
 
 # add git attributes
 git add .gitattributes
