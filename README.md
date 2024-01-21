@@ -1,20 +1,22 @@
-# Gastos do Município de Capelinha/MG no Ano de 2022
+# Analise dos Gastos do Município de Capelinha/MG no Ano de 2022
+
+> "Sem dados você é apenas mais uma pessoa com uma opinião." - W. Edwards Deming
 
 ## Município de Capelinha/MG
 
 [Capelinha](https://pt.wikipedia.org/wiki/Capelinha), é um município brasileiro situado no interior do estado de Minas Gerais, Região Sudeste do país. Localiza-se na microrregião denominada Vale do Jequitinhonha. Conforme o censo de 2022, a cidade tem uma população de 39.624 habitantes. Este município exerce uma influência significativa nos campos econômico, educacional, cultural, empresarial e esportivo nos municípios vizinhos, tornando-se a região mais densamente povoada do Vale do Jequitinhonha. A história de Capelinha remonta a 1812, quando a construção da Igreja Matriz de Nossa Senhora da Graça por Feliciano Luiz Pego marcou o início de sua povoação.
 
-> "Sem dados você é apenas mais uma pessoa com uma opinião." - W. Edwards Deming
-
 ## Índice
 
-- [Gastos do Município de Capelinha/MG no Ano de 2022](#gastos-do-município-de-capelinhamg-no-ano-de-2022)
+- [Analise dos Gastos do Município de Capelinha/MG no Ano de 2022](#analise-dos-gastos-do-município-de-capelinhamg-no-ano-de-2022)
   - [Município de Capelinha/MG](#município-de-capelinhamg)
   - [Índice](#índice)
   - [Dados Abertos](#dados-abertos)
     - [Conceito](#conceito)
     - [Legislação](#legislação)
   - [Disclaimer](#disclaimer)
+  - [Etapas do Projeto](#etapas-do-projeto)
+    - [Análise exploratória dos gastos do município de Capelinha no ano de 2022.](#análise-exploratória-dos-gastos-do-município-de-capelinha-no-ano-de-2022)
   - [Autor](#autor)
   - [License](#license)
 
@@ -56,7 +58,13 @@ Abaixo alguns dos dispositivos legais que determinam, direta ou indiretamente, a
 
 O storytelling empregado neste estudo foi projetada com o intuito de tornar os dados apresentados e o método de elaboração compreensível para qualquer pessoa, independentemente de sua familiaridade com o assunto. Se você já possui conhecimento técnico em Python e/ou Ciência de Dados, sinta-se à vontade para ignorar quaisquer comentários que possam parecer redundantes ou enfadonhos.
 
-[Análise exploratória dos gastos do município de Capelinha no ano de 2022](analise_exploratoria.ipynb).
+## Etapas do Projeto
+
+### [Análise exploratória dos gastos do município de Capelinha no ano de 2022](analise_exploratoria_pagamentos.ipynb).
+
+![Pagamentos realizados por dia ao longo dos meses](assets/pagamentos_mes.png)
+
+O foco dessa análise recaiu sobre os gastos públicos do município de Capelinha, situado em Minas Gerais, durante o ano fiscal de 2022. Os resultados obtidos mostraram as principais categorias, funções e órgãos que foram destinatários dos recursos públicos e, além disso, possibilitaram o acompanhamento da evolução dos gastos ao longo do ano, traçando um panorama fiscal que reflete a gestão do município. No âmbito deste estudo, nosso objetivo central foi proporcionar informações úteis, confiáveis e de fácil acesso aos cidadãos e à sociedade civil acerca da gestão fiscal do município de Capelinha, esperando contribuir para a compreensão da aplicação dos recursos na localidade e incentivando o debate público e a atuação cidadã na fiscalização dos gastos públicos.
 
 ## Autor
 
